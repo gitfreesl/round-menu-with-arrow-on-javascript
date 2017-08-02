@@ -1,0 +1,62 @@
+#menu_yslygi{
+background-color:#b7b7b7;
+position:relative;
+width:790px;
+height:530px;
+}
+#bottom-text{
+position: absolute;
+font-weight: bold;
+bottom: 50px;
+right: 321px;
+color: #454545;
+font-size: 12px;
+}
+#count-client{
+position: absolute;
+bottom: 80px;
+right: 320px;
+}
+#strelka{
+position: absolute;
+border:0px;
+}
+#strelka2{
+position: absolute;
+-webkit-transform:rotate(120deg); /* Safari Chrome */ 
+transform: rotate(120deg); /* CSS3 */ 
+-moz-transform:rotate(120deg); /*Firefox */ 
+/*-o-transform:rotate(120deg); */
+ filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1.2); 
+-ms-transform: rotate(120eg); /* IE9 */ 
+}
+#new{
+position: absolute;
+right: 490px;
+bottom: 110px;
+}
+#hot{
+position: absolute;
+right: 240px;
+bottom:210px
+}
+#persent{
+position: absolute;
+bottom: 370px;
+right: 410px;
+}
+#logo{
+position: absolute;
+bottom: 250px;
+right: 260px;
+}
+.menu_yslygi_text{
+color:#5e5e5e;
+font-size:13px;
+position:absolute;
+}
+.long_line{
+position:absolute;
+right: 396px;
+bottom: 17px;
+}
